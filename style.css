@@ -2,6 +2,7 @@ body{
     background: url("img5.jpg");
     background-size: cover;
     overflow-x: hidden;
+    background-attachment: fixed;
 }
 
 
